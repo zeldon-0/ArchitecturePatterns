@@ -10,6 +10,8 @@ public class Subscriber
 {
     private string name;
 
+    public List<string> HandledEvents = new();
+
     public Subscriber(string name)
     {
         this.name = name;
@@ -18,5 +20,6 @@ public class Subscriber
     public void HandleEvent(Event e)
     {
         Console.WriteLine($"Subscriber {name} received event: {e.Name}");
+        HandledEvents.Add(e.Name);
     }
 }
