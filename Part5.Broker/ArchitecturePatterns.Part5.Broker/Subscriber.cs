@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace ArchitecturePatterns.Part5.Broker;
 public class Subscriber
 {
+    public List<string> ReceivedMessages { get; set; }
     private string name;
 
     public Subscriber(string name)
@@ -16,7 +17,7 @@ public class Subscriber
 
     public void ReceiveMessage(Message message)
     {
-        // Process the received message
         Console.WriteLine($"Subscriber {name} received message: {message.Content}");
+        ReceivedMessages.Add(message.Content);
     }
 }

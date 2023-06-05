@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Part4.PipeFilter\ArchitecturePatterns.Part4.PipeFilter\ArchitecturePatterns.Part4.PipeFilter.csproj" />
+    <ProjectReference Include="..\ArchitecturePatterns.Part4.PipeFilter\ArchitecturePatterns.Part4.PipeFilter.csproj" />
   </ItemGroup>
 
 </Project>
