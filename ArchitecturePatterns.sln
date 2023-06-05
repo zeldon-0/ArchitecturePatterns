@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part3.MasterSlave", "Part3.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part3.MasterSlave", "Part3.MasterSlave\ArchitecturePatterns.Part3.MasterSlave\ArchitecturePatterns.Part3.MasterSlave.csproj", "{55D0D180-F919-40BC-8DB3-4D26873CDF7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part3.MasterSlave.Tests", "Part3.MasterSlave\ArchitecturePatterns.Part3.MasterSlave.Tests\ArchitecturePatterns.Part3.MasterSlave.Tests.csproj", "{6569A907-2C5D-4E0F-9870-0984BCFF034D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{55D0D180-F919-40BC-8DB3-4D26873CDF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55D0D180-F919-40BC-8DB3-4D26873CDF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55D0D180-F919-40BC-8DB3-4D26873CDF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6569A907-2C5D-4E0F-9870-0984BCFF034D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6569A907-2C5D-4E0F-9870-0984BCFF034D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6569A907-2C5D-4E0F-9870-0984BCFF034D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6569A907-2C5D-4E0F-9870-0984BCFF034D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +75,7 @@ Global
 		{273A2435-C61E-4232-9EF3-35D858957665} = {5C6134B5-41C8-4514-9DBA-5E19F08CEFFE}
 		{7B40BEB8-38D5-47E7-8D2D-B15512D524CF} = {5C6134B5-41C8-4514-9DBA-5E19F08CEFFE}
 		{55D0D180-F919-40BC-8DB3-4D26873CDF7B} = {AE84B4A2-8D2C-49AA-9EDB-FB79A5C4D850}
+		{6569A907-2C5D-4E0F-9870-0984BCFF034D} = {AE84B4A2-8D2C-49AA-9EDB-FB79A5C4D850}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ACE0B588-AE2D-497B-9F91-A657022DD3C1}
