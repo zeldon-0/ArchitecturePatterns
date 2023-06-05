@@ -16,4 +16,8 @@
     <PackageReference Include="coverlet.collector" Version="3.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Part4.PipeFilter\ArchitecturePatterns.Part4.PipeFilter\ArchitecturePatterns.Part4.PipeFilter.csproj" />
+  </ItemGroup>
+
 </Project>
