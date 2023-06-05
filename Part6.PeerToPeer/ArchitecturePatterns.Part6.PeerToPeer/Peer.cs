@@ -10,6 +10,8 @@ public class Peer
 {
     private string name;
     private List<Peer> peers;
+    
+    public List<string> ReceivedMessages = new();
 
     public Peer(string name)
     {
@@ -38,6 +40,7 @@ public class Peer
 
     public void ReceiveMessage(string message)
     {
+        ReceivedMessages.Add(message);
         Console.WriteLine($"{name} received message: {message}");
     }
 }
