@@ -7,47 +7,53 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part1.LayeredArchitecture",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part1.LayeredArchitecture", "Part1.LayeredArchitecture\ArchitecturePatterns.Part1.LayeredArchitecture\ArchitecturePatterns.Part1.LayeredArchitecture.csproj", "{7BBE90BA-7AE2-422A-9556-AFF9C76C0A03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part1.LayeredArchitecture.Tests", "Part1.LayeredArchitecture\ArchitecturePatterns.Part1.LayeredArchitecture.Tests\ArchitecturePatterns.Part1.LayeredArchitecture.Tests.csproj", "{7DC4B24A-A5AB-498D-AA04-B647042CF0FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part1.LayeredArchitecture.Tests", "Part1.LayeredArchitecture\ArchitecturePatterns.Part1.LayeredArchitecture.Tests\ArchitecturePatterns.Part1.LayeredArchitecture.Tests.csproj", "{7DC4B24A-A5AB-498D-AA04-B647042CF0FB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part2.ClientServer", "Part2.ClientServer", "{5C6134B5-41C8-4514-9DBA-5E19F08CEFFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part2.ClientServer.Client", "Part2.ClientServer\ArchitecturePatterns.Part2.ClientServer.Client\ArchitecturePatterns.Part2.ClientServer.Client.csproj", "{45A13D0A-B3C5-488E-9ABE-BF17E122C5B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part2.ClientServer.Client", "Part2.ClientServer\ArchitecturePatterns.Part2.ClientServer.Client\ArchitecturePatterns.Part2.ClientServer.Client.csproj", "{45A13D0A-B3C5-488E-9ABE-BF17E122C5B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part2.ClientServer.Server", "Part2.ClientServer\ArchitecturePatterns.Part2.ClientServer.Server\ArchitecturePatterns.Part2.ClientServer.Server.csproj", "{EA2F4AED-C924-4BAF-A2E9-42E67F5C7264}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part2.ClientServer.Server", "Part2.ClientServer\ArchitecturePatterns.Part2.ClientServer.Server\ArchitecturePatterns.Part2.ClientServer.Server.csproj", "{EA2F4AED-C924-4BAF-A2E9-42E67F5C7264}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part2.ClientServer.Client.Tests", "Part2.ClientServer\ArchitecturePatterns.Part2.ClientServer.Client.Tests\ArchitecturePatterns.Part2.ClientServer.Client.Tests.csproj", "{273A2435-C61E-4232-9EF3-35D858957665}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part2.ClientServer.Client.Tests", "Part2.ClientServer\ArchitecturePatterns.Part2.ClientServer.Client.Tests\ArchitecturePatterns.Part2.ClientServer.Client.Tests.csproj", "{273A2435-C61E-4232-9EF3-35D858957665}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part2.ClientServer.Server.Tests", "Part2.ClientServer\ArchitecturePatterns.Part2.ClientServer.Server.Tests\ArchitecturePatterns.Part2.ClientServer.Server.Tests.csproj", "{7B40BEB8-38D5-47E7-8D2D-B15512D524CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part2.ClientServer.Server.Tests", "Part2.ClientServer\ArchitecturePatterns.Part2.ClientServer.Server.Tests\ArchitecturePatterns.Part2.ClientServer.Server.Tests.csproj", "{7B40BEB8-38D5-47E7-8D2D-B15512D524CF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part3.MasterSlave", "Part3.MasterSlave", "{AE84B4A2-8D2C-49AA-9EDB-FB79A5C4D850}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part3.MasterSlave", "Part3.MasterSlave\ArchitecturePatterns.Part3.MasterSlave\ArchitecturePatterns.Part3.MasterSlave.csproj", "{55D0D180-F919-40BC-8DB3-4D26873CDF7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part3.MasterSlave", "Part3.MasterSlave\ArchitecturePatterns.Part3.MasterSlave\ArchitecturePatterns.Part3.MasterSlave.csproj", "{55D0D180-F919-40BC-8DB3-4D26873CDF7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part3.MasterSlave.Tests", "Part3.MasterSlave\ArchitecturePatterns.Part3.MasterSlave.Tests\ArchitecturePatterns.Part3.MasterSlave.Tests.csproj", "{6569A907-2C5D-4E0F-9870-0984BCFF034D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part3.MasterSlave.Tests", "Part3.MasterSlave\ArchitecturePatterns.Part3.MasterSlave.Tests\ArchitecturePatterns.Part3.MasterSlave.Tests.csproj", "{6569A907-2C5D-4E0F-9870-0984BCFF034D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part4.PipeFilter", "Part4.PipeFilter", "{DC9C1E61-4E5F-47CD-B0DE-88E95F8A05E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part4.PipeFilter", "Part4.PipeFilter\ArchitecturePatterns.Part4.PipeFilter\ArchitecturePatterns.Part4.PipeFilter.csproj", "{06E21200-996C-4986-9FA3-E1BCC767A367}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part4.PipeFilter", "Part4.PipeFilter\ArchitecturePatterns.Part4.PipeFilter\ArchitecturePatterns.Part4.PipeFilter.csproj", "{06E21200-996C-4986-9FA3-E1BCC767A367}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part4.PipeFilter.Tests", "Part4.PipeFilter\ArchitecturePatterns.Part4.PipeFilter.Tests\ArchitecturePatterns.Part4.PipeFilter.Tests.csproj", "{E7E67363-4C30-4473-B701-B65275957283}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part5.Broker", "Part5.Broker", "{0296CC61-21E7-49C0-A6F8-A73730ECC10D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part5.Broker", "Part5.Broker\ArchitecturePatterns.Part5.Broker\ArchitecturePatterns.Part5.Broker.csproj", "{3F457838-1278-4E6D-BD07-CCCA9F432837}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part5.Broker", "Part5.Broker\ArchitecturePatterns.Part5.Broker\ArchitecturePatterns.Part5.Broker.csproj", "{3F457838-1278-4E6D-BD07-CCCA9F432837}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part5.Broker.Tests", "Part5.Broker\ArchitecturePatterns.Part5.Broker.Tests\ArchitecturePatterns.Part5.Broker.Tests.csproj", "{9BEF61E4-7243-4193-8544-CB310C9BADC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part5.Broker.Tests", "Part5.Broker\ArchitecturePatterns.Part5.Broker.Tests\ArchitecturePatterns.Part5.Broker.Tests.csproj", "{9BEF61E4-7243-4193-8544-CB310C9BADC6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part6.PeerToPeer", "Part6.PeerToPeer", "{A7BF28B0-155A-4701-A844-48038FA8D372}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part6.PeerToPeer", "Part6.PeerToPeer\ArchitecturePatterns.Part6.PeerToPeer\ArchitecturePatterns.Part6.PeerToPeer.csproj", "{EDD5114B-2C7C-4EE0-AEAA-D523E415BA2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part6.PeerToPeer", "Part6.PeerToPeer\ArchitecturePatterns.Part6.PeerToPeer\ArchitecturePatterns.Part6.PeerToPeer.csproj", "{EDD5114B-2C7C-4EE0-AEAA-D523E415BA2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part6.PeerToPeer.Tests", "Part6.PeerToPeer\ArchitecturePatterns.Part6.PeerToPeer.Tests\ArchitecturePatterns.Part6.PeerToPeer.Tests.csproj", "{E61CB0D9-EDAC-4B79-A500-27B49FC985D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part6.PeerToPeer.Tests", "Part6.PeerToPeer\ArchitecturePatterns.Part6.PeerToPeer.Tests\ArchitecturePatterns.Part6.PeerToPeer.Tests.csproj", "{E61CB0D9-EDAC-4B79-A500-27B49FC985D7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part7.EventBus", "Part7.EventBus", "{79972693-9F43-4972-8C0E-D4F6A84639E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part7.EventBus", "Part7.EventBus\ArchitecturePatterns.Part7.EventBus\ArchitecturePatterns.Part7.EventBus.csproj", "{83937F33-3382-44D9-BFC8-735951008C89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part7.EventBus", "Part7.EventBus\ArchitecturePatterns.Part7.EventBus\ArchitecturePatterns.Part7.EventBus.csproj", "{83937F33-3382-44D9-BFC8-735951008C89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part7.EventBus.Tests", "Part7.EventBus\ArchitecturePatterns.Part7.EventBus.Tests\ArchitecturePatterns.Part7.EventBus.Tests.csproj", "{F1E741F8-FB06-443E-99EB-CD9D337944F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitecturePatterns.Part7.EventBus.Tests", "Part7.EventBus\ArchitecturePatterns.Part7.EventBus.Tests\ArchitecturePatterns.Part7.EventBus.Tests.csproj", "{F1E741F8-FB06-443E-99EB-CD9D337944F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part8.ModelViewController", "Part8.ModelViewController", "{5BDDC1AA-1358-4FE5-B802-9262565F1658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part8.ModelViewController", "Part8.ModelViewController\ArchitecturePatterns.Part8.ModelViewController\ArchitecturePatterns.Part8.ModelViewController.csproj", "{7AE6A0A3-9653-46E4-B319-FB704CB0D59D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitecturePatterns.Part8.ModelViewController.Tests", "Part8.ModelViewController\ArchitecturePatterns.Part8.ModelViewController.Tests\ArchitecturePatterns.Part8.ModelViewController.Tests.csproj", "{7C377AF5-EFB2-4ADD-8A25-D3A45E300962}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -119,6 +125,14 @@ Global
 		{F1E741F8-FB06-443E-99EB-CD9D337944F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1E741F8-FB06-443E-99EB-CD9D337944F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1E741F8-FB06-443E-99EB-CD9D337944F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AE6A0A3-9653-46E4-B319-FB704CB0D59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE6A0A3-9653-46E4-B319-FB704CB0D59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE6A0A3-9653-46E4-B319-FB704CB0D59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE6A0A3-9653-46E4-B319-FB704CB0D59D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C377AF5-EFB2-4ADD-8A25-D3A45E300962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C377AF5-EFB2-4ADD-8A25-D3A45E300962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C377AF5-EFB2-4ADD-8A25-D3A45E300962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C377AF5-EFB2-4ADD-8A25-D3A45E300962}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -140,6 +154,8 @@ Global
 		{E61CB0D9-EDAC-4B79-A500-27B49FC985D7} = {A7BF28B0-155A-4701-A844-48038FA8D372}
 		{83937F33-3382-44D9-BFC8-735951008C89} = {79972693-9F43-4972-8C0E-D4F6A84639E0}
 		{F1E741F8-FB06-443E-99EB-CD9D337944F0} = {79972693-9F43-4972-8C0E-D4F6A84639E0}
+		{7AE6A0A3-9653-46E4-B319-FB704CB0D59D} = {5BDDC1AA-1358-4FE5-B802-9262565F1658}
+		{7C377AF5-EFB2-4ADD-8A25-D3A45E300962} = {5BDDC1AA-1358-4FE5-B802-9262565F1658}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ACE0B588-AE2D-497B-9F91-A657022DD3C1}
