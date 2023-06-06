@@ -16,4 +16,8 @@
     <PackageReference Include="coverlet.collector" Version="3.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ArchitecturePatterns.Part9.Blackboard\ArchitecturePatterns.Part9.Blackboard.csproj" />
+  </ItemGroup>
+
 </Project>
