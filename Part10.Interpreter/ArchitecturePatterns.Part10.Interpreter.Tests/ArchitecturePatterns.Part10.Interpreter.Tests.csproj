@@ -16,4 +16,8 @@
     <PackageReference Include="coverlet.collector" Version="3.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ArchitecturePatterns.Part10.Interpreter\ArchitecturePatterns.Part10.Interpreter.csproj" />
+  </ItemGroup>
+
 </Project>
